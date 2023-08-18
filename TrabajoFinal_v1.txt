@@ -1,0 +1,9 @@
+<inicio>
+Obtener especificación de requesitos
+Diseño del software
+Construcción del software
+Integración
+Pruebas
+Despliegue
+Mantenimiento
+<fin>
