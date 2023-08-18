@@ -1,0 +1,12 @@
+<inicio>
+Obtener especificación de requisitos
+Análisis de los requisitos
+Etapa de moledamiento lógico
+Diseño del software
+Construcción del software
+Integración
+Pruebas
+Feedback
+Despliegue
+Mantenimiento
+<fin>
